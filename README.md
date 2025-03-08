@@ -1,7 +1,3 @@
-Here’s a refined version of your project description:  
-
----
-
 # 🚗 Car Rental System  
 
 A **React-based project** developed by **Manas Ranjan Bishi** and **Nidamanuri Vishnu** during a **48-hour college hackathon**. This was our **first project** built using **React.js, Node.js, and MongoDB**.  
